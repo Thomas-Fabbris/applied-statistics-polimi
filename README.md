@@ -11,14 +11,8 @@ Academic Year: 2025/2026
 
 ```
 applied-statistics-polimi/
-└── Lab/
-    ├── Lab1/   # Material for laboratory session 1
-    ├── Lab2/   # Material for laboratory session 2
-    ├── Lab3/   # Material for laboratory session 3
-    └── ...
+└── Labs/
 ```
-
-Each `LabN` folder contains the Colab Notebooks and any additional material covered during that specific laboratory session.
 
 ## Usage
 
